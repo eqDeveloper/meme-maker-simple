@@ -1,2 +1,2 @@
 # meme-maker-simple
-This is a simple meme maker.
+This is a simple meme maker exercise.
